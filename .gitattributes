@@ -1,0 +1,12 @@
+# Normalize text to LF in the repo; checkouts use LF too
+* text=auto eol=lf
+
+# Binary: never convert, never diff as text
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.ttf  binary
+*.otf  binary
+*.3mf  binary
+*.stl  binary
+*.zip  binary

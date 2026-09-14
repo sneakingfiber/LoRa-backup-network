@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Installers / third-party binaries (download them, don't version them)
+*.dmg
+*.exe
+
+# KiCad: per-user state, autosaves, backups, lock files
+*.kicad_prl
+*-backups/
+*.bak
+*.lck
+_autosave-*
+fp-info-cache
+\#auto_saved_files\#
+
+# OpenSCAD render previews
+prev.png
+
+# Arduino / editor build output
+build/
+.vscode/
