@@ -1,4 +1,4 @@
-# esp32_projects
+# LoRa Backup Network
 
 ESP32 experiments around the **DX-LR02-433T22D** LoRa module: a two-node radio link, plus the
 hardware references and enclosure models that go with it.
